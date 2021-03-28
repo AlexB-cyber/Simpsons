@@ -1,0 +1,78 @@
+body {
+	margin: 0;
+	background-color: #F5F4A4;
+}
+.menu {
+	height: 70px;
+	width: 100%;
+	background-color: #D5CB59;
+	top: 0;
+	margin-left: -10px;
+	position: fixed;
+} 
+.menu a {
+	display: inline-block;
+	text-decoration: none;
+	margin-left: 275px;
+	font-size: 20px;
+	margin-top: -90px;
+}	
+.simpsons {
+	margin-top: 80px;
+}
+.inmenu {
+	text-align: center;
+	margin-top: 0;
+}
+h1 {
+	margin-left: 560px;
+}
+img {
+	width: 400px;
+	height: 300px;
+	margin-left: 200px;
+}
+p {
+	margin-left: 200px;
+	font-size: 18px;
+}
+h2 {
+	 margin-left: 200px;
+}
+.feedback {
+	background-color: #E7E18A;
+	height: 250px;
+}
+.line {
+	font-size: 40px;
+}
+.bozone {
+	width: 400px;
+	height: 300px;
+	margin-left: 250px;
+}
+label {
+	font-size: 20px;
+	display: block;
+	margin-left: 560px;
+	margin-top: 20px;
+}
+.input {
+	width: 270px;
+	height: 40px;
+	border-radius: 5px;
+	margin-left: 530px;
+	margin-top: 15px;
+	font-size: 20px;
+}
+button {
+	width: 250px;
+	height: 35px;
+	border-radius: 8px;
+	margin-left: 545px;
+	margin-top: 10px;
+	background-color: black;
+	color: white;
+	margin-bottom: 45px;
+}
+
